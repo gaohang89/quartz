@@ -41,11 +41,11 @@ fi
 mkdir -p content
 
 # Backup existing content if it exists and is not empty
-if [ -d "content" ] && [ "$(ls -A content)" ]; then
-    BACKUP_DIR="content.backup.$(date +%Y%m%d_%H%M%S)"
-    echo -e "${YELLOW}Backing up existing content to: $BACKUP_DIR${NC}"
-    cp -r content "$BACKUP_DIR"
-fi
+#if [ -d "content" ] && [ "$(ls -A content)" ]; then
+#    BACKUP_DIR="content.backup.$(date +%Y%m%d_%H%M%S)"
+#    echo -e "${YELLOW}Backing up existing content to: $BACKUP_DIR${NC}"
+#    cp -r content "$BACKUP_DIR"
+#fi
 
 # Sync content from Obsidian vault to Quartz content folder
 echo -e "${YELLOW}Syncing content from: $OBSIDIAN_PUBLISH_PATH${NC}"
