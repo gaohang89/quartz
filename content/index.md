@@ -1,28 +1,5 @@
-# Welcome to My Quartz Site
+# Welcome to my digital garden
 
-This is the home page of your Quartz digital garden. 
+My name is Leo Gao, I'm a life long learner, I share my ideas and workflows here. Feel free to walk around.
 
-## Getting Started
-
-Quartz is a fast, batteries-included static-site generator that transforms your Markdown content into a fully functional website. Perfect for:
-
-- 📝 Digital gardens
-- 📚 Knowledge bases  
-- 🎓 Course notes
-- 📖 Documentation sites
-
-## Features
-
-- **Fast**: Sub-second reload times
-- **Responsive**: Mobile-friendly design
-- **Searchable**: Full-text search built-in
-- **Interactive**: Hover previews and graph view
-- **Customizable**: Extensive theming options
-
-## Next Steps
-
-1. Add your content to the `content/` folder
-2. Customize your site in `quartz.config.ts`
-3. Deploy to GitHub Pages or your preferred hosting platform
-
-Happy writing! ✨
+You can reach me out here : [[Contact]]
